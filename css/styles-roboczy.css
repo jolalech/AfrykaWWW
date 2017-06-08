@@ -1,0 +1,91 @@
+/*
+.container {
+	margin: 0 auto;
+	max-width: 1200px;
+	height: 600px;
+	background: ivory;
+
+}*/
+.afryka {
+	border-style: double;
+	border-width: 5px;
+	border-color: red;
+	font-family: times;
+	font-size: 40px;
+	font-style: italic;
+	color: black;	
+	padding: 5px;
+	text-align: center;
+	background: thistle;
+	letter-spacing: 9px;
+
+
+}
+
+.wycentruj1{
+	margin: 0 auto;
+	width: 90%;
+	word-spacing: 5px;
+}
+div.wycentruj1 span {
+	text-transform: uppercase;
+	font-weight: bold;
+	
+
+}
+
+div.wycentruj1 .nazwa {
+	font-weight: normal;
+	text-transform: unset;	
+	font-style: italic;
+
+
+}
+
+
+.wycentruj2 {
+	margin: 0 auto;
+	width: 70%;
+}
+
+
+ol.lista-center {
+
+	padding-top: 20px;
+	padding-bottom: 20px;
+	list-style-type: upper-latin;
+	
+}
+ol>ul{
+	list-style-type: lower-latin;
+}
+
+.kolor1 {
+	color: red;
+}
+.kolor2{
+	color: blue;
+}
+
+.left {
+	float: left;
+	width: 50%;
+	height: 345px;
+	background: lightpink;
+}
+
+
+	
+
+.right {
+	float: right;
+	width: 50%;
+	height: 345px;	
+	background: lightgreen;
+}
+
+.my_image {
+	width: 100%;
+	margin-top: 50px;
+
+}

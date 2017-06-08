@@ -1,0 +1,86 @@
+table, th, td {
+      border: 1px solid black;
+} 
+
+th, td {
+  padding: 15px;
+}       
+
+th {
+  text-transform: uppercase;
+}
+
+table {
+  border-spacing: 5px;
+}
+
+table #t01 tr: nth-child(even){
+  background-color: grey;
+}
+
+table #t01 tr: nth-child(odd){
+  background-color: blue;
+}
+
+table th {
+  background-color: black;
+  color: white;
+}
+
+h1 {
+  font-size: 70px;
+  font-family: arial;
+  font-weight: bold;
+
+}
+
+#dane {
+  font-size: 30px;
+  font-family: arial;
+  font-weight: bold;
+}
+
+.dl {
+  float: left;
+  margin-left: 50px;
+  width:100%;
+
+
+}
+
+.tabelka tr:nth-child(even) {
+  background-color: red;
+}
+
+.col3 {
+  background-color: pink;
+}
+
+.col2{
+  background-color: yellow;
+}  
+
+
+.menu{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+.menu li{
+  float: left;
+}
+
+.menu li a{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  text-decoration: none;
+}
+
+.menu li a: hover{
+background-color: #111111;
+}

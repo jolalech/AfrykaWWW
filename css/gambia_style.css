@@ -1,0 +1,118 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  line-height: 60px; /* Vertically center the text there */
+  background-color: #f5f5f5;
+}
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+
+
+
+
+
+
+
+a {
+	text-decoration: underline;
+}
+
+#moj-jumbotron h1 {
+	color: red;
+}
+
+#moj-jumbotron p {
+	color: green;
+
+}
+#moj-jumbotron {
+	background-image: url("img/jumbotron_wallpaper.jpg");	
+	background-repeat: no-repeat;
+	background-size: 100% 100%; 
+}
+#kol2 {
+	height: 1629px;
+}
+#kol3 {
+	height: 1629px;	
+}
+
+#gambia1 {	
+	border: 3px;
+	border-style: solid;
+	padding: 15px;
+	border-color: red;
+	font-family: fantasy;
+	color: #000080;
+    background-color: oldLace;
+
+}
+
+#gambia2 {
+	border: 3px;
+	border-style: solid;
+	padding: 15px;
+	border-color: red;	
+    font-family: fantasy;
+    color: navy;	
+    background-color: oldLace;
+
+
+} 
+#gambia3 {
+	border: 3px;
+	border-style: solid;
+	padding: 15px;
+	border-color: red;
+	font-family: fantasy;
+    color: navy;
+    background-color: oldLace;
+
+}
+#gambia4 {
+	border: 3px;
+	border-style: solid;
+	padding: 15px;
+	border-color: red;
+	font-family: fantasy;	
+	color: navy;
+    background-color: oldLace;
+
+
+}
+
+.cytat {
+	font-style: oblique;
+}
+
+.nazwa {
+	font-weight: bold;
+}
+
+
+#kol2 > img, iframe {
+	width: 100%; 
+	margin-top: 30px;
+}
+
+
+ul li a {
+	text-decoration: none!important;
+}
+
+
+

@@ -1,0 +1,56 @@
+	.left{	
+		padding: 30px;
+		width: 60%;
+	} 
+
+	.kontakt{
+		font-size: 35px;
+		font-weight: bold;
+		text-transform: uppercase;
+		text-align: center;
+		border-color: green;
+		background-color: pink;
+	}
+
+	.nazwa{
+		font-size: 25px;
+		letter-spacing: 3px;
+		color: brown;
+	}
+
+
+	.car{
+		font-family: serif;
+		font-weight: bold;
+		font-style: italic;
+		font-size:30px;
+		border-color: red;
+		letter-spacing: 3px;
+	}
+
+	.text}
+		
+		
+	
+	} 
+
+	/* Nie działają style na inputy typu radio!! */
+	div.radio_class{
+		text-transform: uppercase;
+		color: blue;
+
+	}
+
+	div.dane input[type=text]{
+		font-size: 15px;
+		font-style: oblique;
+		font-weight: bold;
+		letter-spacing: 4px;
+		color: red;
+		background-color: yellow;
+		border-style: double;
+		border-color: purple;
+		text-transform: uppercase;
+	}	
+
+	
