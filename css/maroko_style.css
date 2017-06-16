@@ -56,7 +56,7 @@ body {
 }
 
 
-.button:hover {background-color: #3e8e41}
+.button:hover {background-color: darkred}
 
 
 .button:active {
@@ -99,9 +99,9 @@ body {
 	cursor: pointer;
 	text-align: center;	
 	outline: none;
-	color: #fff;
-	background-color: #DC143C;
-	border: none;
+	color: red;
+	background-color: mistyrose;
+	border: 2px solid red;
 	border-radius: 10px;
 	box-shadow: 0 9px #999;
 	margin: 15px;	
@@ -112,7 +112,8 @@ body {
 	text-decoration: none;
 	text-transform: uppercase;
 	font-size: 15px;
-	color: white;
+	font-weight: bold;
+	color: navy;
 }
 
 .center-center {
@@ -212,7 +213,7 @@ body {
 
 
 .footer {
-	margin-top: 2px;
+	margin-top: 5px;
 	width: 100%;
 	height: 50px;
 	background: goldenrod;
